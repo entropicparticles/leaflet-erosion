@@ -12,6 +12,8 @@ Do whatever you want with it, enjoy!
 
 EntropicParticles
 
+Blog: http://www.entropicparticles.com/6-procedural-maps-with-leaflet-ii/
+
 DEMO: https://entropicparticles.github.io/leaflet-erosion/
 
 - Reload starting with the map layer instead:
